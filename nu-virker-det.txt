@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 det virker faktisk nu! HAHA SNYDT
+=======
+det virker faktisk nu! KÆMPE DILLER!
+>>>>>>> c4fb548a71f1844b74a5b3f38d929b1326bf29f2
